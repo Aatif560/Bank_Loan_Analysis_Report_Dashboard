@@ -1,4 +1,7 @@
 # Bank Loan Analysis Report Dashboard
+<p align="center">
+  <img src="./images/dashboard.png" alt="Dashboard Screenshot" title="Bank Loan Dashboard">
+</p>
 
 
 ## Overview
